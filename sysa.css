@@ -432,6 +432,7 @@ clear:both;
 }
 .footer {
   background-color: #F1F1F1;
+  border-bottom:1px solid #E1E1E1;
   text-align: center;
   padding: 10px;
 }
